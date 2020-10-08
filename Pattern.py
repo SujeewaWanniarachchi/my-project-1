@@ -1,3 +1,4 @@
+#to get a pattern
 tot = 0
 x= range(1,10)
 for i in x:
